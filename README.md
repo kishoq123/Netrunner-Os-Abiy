@@ -6,7 +6,7 @@
  It walks through system preparation, bootable media creation, BIOS setup,
  and the full graphical installation process, making it beginner-friendly.
 
-## 3. Wait() System call
+## 2. Wait() System call
 the wait() system call used in Unix-like operating systems
 for process synchronization,specifically within Netrunner OS. It covers the
 technical syntax, real-world use cases, prevention of zombie processes, and
